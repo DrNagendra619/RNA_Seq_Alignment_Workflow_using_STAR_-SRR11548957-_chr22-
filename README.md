@@ -1,0 +1,2 @@
+# RNA_Seq_Alignment_Workflow_using_STAR_-SRR11548957-_chr22-
+RNA_Seq_Alignment_Workflow_using_STAR_(SRR11548957,_chr22)
